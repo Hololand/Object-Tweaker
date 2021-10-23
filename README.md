@@ -55,7 +55,7 @@ This panel is where you can select either objects in the table or a class to edi
 then you can set the minimum and maximum values for the scale, pitch, yaw, roll and elevation of each object. Any
 object in the selection that falls outside of these bounds will be set to the minimum or maximum accordingly.
 #### Object Cleanup panel
-#####Cull Duplicate Objects
+##### Cull Duplicate Objects
 This button will delete any duplicate objects in the file
 ##### Cull Outside Shape
 You will be prompted to load a `shape.shp` file and any objects outside of this shape will be deleted
