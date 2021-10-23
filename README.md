@@ -25,6 +25,8 @@ Windows
 ```shell script
 > gradlew.bat clean jpackage
 ```
+
+
 #Object Tweaker v1.0 - Manual
 Report any bugs or issues to Hololand
 ##Installation
